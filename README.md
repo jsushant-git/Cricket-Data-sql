@@ -1,0 +1,3 @@
+// IPL DATA ANALYSIS USING SQL QUERIES//
+
+This project analyzes a comprehensive cricket match dataset using MySQL to uncover key insights related to team performances, match outcomes, toss decisions, scoring trends, player achievements, and venue statistics. The analysis includes data cleaning and transformation processes followed by exploratory SQL queries to identify top-winning teams, highest scores, chasing vs defending success rates, Player of the Match trends, seasonal match distributions, and win percentages. The project demonstrates practical use of SQL for real-world sports analytics and showcases skills in data cleaning, aggregation, filtering, grouping, and performance analysis
